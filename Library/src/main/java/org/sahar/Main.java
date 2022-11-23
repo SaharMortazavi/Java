@@ -11,6 +11,8 @@ public class Main {
         Book book = new Book();
         BookKeeper bookKeeper = new BookKeeper();
         System.out.println("please select one of options below: ");
+        System.out.println("this is the best");
+        System.out.println("this is from another branch");
         Scanner scanner = new Scanner(System.in);
         int in;
         int actionChoice1;
